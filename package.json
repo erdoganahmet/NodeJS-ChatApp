@@ -1,0 +1,13 @@
+{
+  "name":"node.js-chatapp",
+  "node":"1.0.0",
+  
+  "dependencies": {
+  	"socket.io": "*",
+  	"express": "*",
+  	"jade": "*"
+  	  },
+  "scripts": {
+  	"start": "node server.js"
+  }
+}
